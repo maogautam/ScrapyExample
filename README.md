@@ -2,6 +2,6 @@
 
 Scraping Web Pages With Scrapy
 
-Create a Project :   scrapy startproject  <your projectName>
+Create a Project :   scrapy startproject  your-project-name
 
-Test :   scrapy crawl <name of spider>
+Test :   scrapy crawl  name-of-spider
