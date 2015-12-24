@@ -1,3 +1,3 @@
 # ScrapyExample
 
-A sample Application Scraping Web Pages With Scrapy
+Scraping Web Pages With Scrapy
