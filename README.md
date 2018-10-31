@@ -1,6 +1,6 @@
 # ScrapyExample
 
-Scraping Web Pages With Scrapy
+Scraping Web Pages using Scrapy
 
 Create a Project :   scrapy startproject  your-project-name
 
